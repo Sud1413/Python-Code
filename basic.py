@@ -3,7 +3,6 @@
 print("Hello Lazy HAcker")
 
 for i in range(100):
-  print("This is a scam")
   print("tested loop")
   
 a=20
