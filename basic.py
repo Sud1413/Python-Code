@@ -1,5 +1,3 @@
-# the basic prograns are all for fun
-
 
 for i in range(100):
   print("tested loop")
